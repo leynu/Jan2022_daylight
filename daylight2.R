@@ -176,7 +176,7 @@ draw_plot(p) +
             family=font3, 
             hjust = 0,
             color="#e56255") +
-  draw_text(text= "The area indicates \nthe country with \n most hours of \ndaylight per day", 
+  draw_text(text= "The area indicates \nthe city with \n most hours of \ndaylight per day", 
             x=0.5, 
             y=0.5, 
             size=15, 
