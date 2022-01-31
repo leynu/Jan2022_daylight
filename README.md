@@ -1,2 +1,9 @@
 # Jan2022_daylight
-Compare daylight in some cities
+
+Sunrise and Sunset in Torrevieja (Spain) and Gothenburg (Sweden)
+
+
+![](daylight.png)
+
+
+
